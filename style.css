@@ -1,8 +1,48 @@
-strong{
-    color: blueviolet;
+h2 {
+    color: rgb(225, 162, 79);
 }
-img {
-    width: 800px;
-    height: 800px;
+.green {
+    background-color: #00f8c6;
+    
+}
+.light {
+    background-color: rgb(248, 91, 0);
+}
+.city {
+    background-color: rgb(255, 145, 2);
+}
+.vienna {
+    background-color: rgb(248, 0, 0);
+}
+.italian {
+    background-color: rgb(0, 0, 0);
 
 }
+ h4 {
+    color: white;
+ }
+ h5 {
+    color: white;
+ }
+p {
+    color: white;
+   
+}
+body {
+    background-color: rgb(224, 224, 217);
+}
+h3 {
+   text-align: center; 
+}
+.roasting {
+    background-color: white;
+    
+}
+.header {
+    background-image:url('qqwsa.jpeg') ;
+    height:250px ;
+    text-align: center;
+}
+    
+
+ 
